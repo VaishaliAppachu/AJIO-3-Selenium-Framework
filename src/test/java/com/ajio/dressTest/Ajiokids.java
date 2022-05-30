@@ -16,6 +16,11 @@ import org.openqa.selenium.support.ui.Select;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Ajiokids {
+	/**
+	 * AJIO SHOPPING
+	 * @param args
+	 * @throws InterruptedException
+	 */
 
 	public static void main(String[] args) throws InterruptedException {
 		ChromeOptions opt= new ChromeOptions();
